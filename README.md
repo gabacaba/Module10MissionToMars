@@ -7,6 +7,6 @@ The final result would be a site that contains information about Mars and some i
 ## Results 
 For this assignment there are three deliverables. 
 
-Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles (see Mission_to_mars_challenge.ipyb)
-Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles (see scraping and app files)
-Deliverable 3: Add Bootstrap 3 Components (see index html file)
+- Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles (see Mission_to_mars_challenge.ipyb)
+- Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles (see scraping and app files)
+- Deliverable 3: Add Bootstrap 3 Components (see index html file)
